@@ -25,9 +25,10 @@ SELECT count(*) FROM TERCERA_FORMA
 WHERE SEDE = 5
 = 34 SEDE ORIENTE
 
+3. ¿Cuántos empleados por estrato?
 
+SELECT count(*) FROM TERCERA_FORMA
+WHERE ESTRATO = 'ESTRATO 2'
 
-
-
-
+=
 
