@@ -1,0 +1,33 @@
+1. ¿Cuántos empleados son?
+
+SELECT count(*) FROM emplead = 453
+
+
+2. ¿Cuántos empleados por sede?
+
+SELECT count(*) FROM TERCERA_FORMA
+WHERE SEDE = 1 
+= 21 SEDE NORTE
+
+SELECT count(*) FROM TERCERA_FORMA
+WHERE SEDE = 2 
+=20 SEDE CENTRO
+
+SELECT count(*) FROM TERCERA_FORMA
+WHERE SEDE = 3
+= 20 SEDE SUR
+
+SELECT count(*) FROM TERCERA_FORMA
+WHERE SEDE = 4
+= 18 SEDE OCCIDENTE
+
+SELECT count(*) FROM TERCERA_FORMA
+WHERE SEDE = 5
+= 34 SEDE ORIENTE
+
+
+
+
+
+
+
